@@ -31,5 +31,8 @@
 
 Any other usage HAVE to be granted by a writing letter of me.
 
+## **Image & Video in docs directory**
+<img alt="v1.0.0" src="https://github.com/handfreezer/IoT-Current-Sensor-MQTT/raw/main/pictures/view_global.jpg" max-width="300">
+
 ### **Keywords**
 iot current sensor esp32 mqtt wifi domotic esp32 esp 32 sct013 sct 013 ads1015 ads 1015 oled ssd1306 ssd 1306 arduino platformio platform io wifimanager wifi manager config portal jeedom domoticz homeassistant
